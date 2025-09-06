@@ -3,7 +3,8 @@ A simple and clean web-based password generator built with vanilla HTML, CSS, an
 
 Link : 
 
-ScreenShort : 
+ScreenShort : <img width="979" height="799" alt="image" src="https://github.com/user-attachments/assets/24cf424c-e0dc-4878-917e-8ebc229d191e" />
+
 
 # Features : 
 . Customizable Password Length: Adjust the password length from 1 to 30 characters using an intuitive slider.
