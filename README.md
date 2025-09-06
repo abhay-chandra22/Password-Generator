@@ -1,11 +1,11 @@
-#Password Generator:
+# Password Generator:
 A simple and clean web-based password generator built with vanilla HTML, CSS, and JavaScript. It allows users to create strong, random passwords based on customizable criteria like length and character types.
 
 Link : 
 
 ScreenShort : 
 
-#Features : 
+# Features : 
 . Customizable Password Length: Adjust the password length from 1 to 30 characters using an intuitive slider.
 
 . Character Set Options: Choose to include or exclude specific character types:
@@ -24,7 +24,7 @@ ScreenShort :
 
 . Clean UI: A modern and straightforward user interface with a pleasant gradient background.
 
-#Technologies Used : 
+# Technologies Used : 
 1. HTML5: For the basic structure and content of the web page.
 
 2. CSS3: For styling the components, layout, and visual effects.
@@ -42,14 +42,14 @@ To run this project locally, follow these simple steps:
 
 * That's it! You can now generate passwords.
 
-#Code Overview : 
+# Code Overview : 
 script.js
 
 This file contains all the logic for the application.
 
   . DOM Element Selection: All required HTML elements (slider, buttons, checkboxes, etc.) are selected at the beginning.
 
-  . Event Listeners:
+  . # Event Listeners:
 
      . An input event listener on the slider updates the "Password Length" display in real-time.
 
@@ -57,7 +57,7 @@ This file contains all the logic for the application.
 
      . A click event listener on the copy icon uses the navigator.clipboard.writeText() API to copy the password from the display box.
 
-  . generatePassword() Function:
+  . # generatePassword() Function:
 
      1. Initializes an empty string allChars which will hold the pool of characters to choose from.
 
